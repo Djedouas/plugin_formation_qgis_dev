@@ -1,0 +1,26 @@
+[general]
+name=Formation QGIS dev
+description=Plugin d'essai en formation
+category=None
+hasProcessingProvider=True
+about=Ce plugin est un test lors de la formation QGIS DEV 1 2026 pour voir le template et le déploiement sur GitHub
+icon=resources/images/default_icon.png
+tags=training,github,ci,cd
+
+# credits and contact
+author=Jacky VOLPES
+email=info@oslandia.com
+homepage=<TODO>/pages
+repository=<TODO>
+tracker=<TODO>/issues/
+
+# QGIS context
+deprecated=False
+experimental=True
+plugin_dependencies=
+qgisMinimumVersion=3.44.4
+qgisMaximumVersion=4.10.16
+
+# versioning
+version=0.1.0
+changelog=
